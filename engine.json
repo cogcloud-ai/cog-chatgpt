@@ -1,0 +1,10 @@
+{
+  "engine": "codex",
+  "harness_id": "openai/codex-cli",
+  "features": [
+    "context/per-turn",
+    "memory/none",
+    "json-output",
+    "tools/vendor-restricted"
+  ]
+}
